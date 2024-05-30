@@ -1,0 +1,62 @@
+.wat {
+	background: url(img/bg.jpg);
+	background-size:cover;
+	height:100vh;
+}
+
+body {
+	margin:0;
+}
+
+.menu {
+	margin:0;
+	padding:0;
+	list-style:none;
+	font-family:Verdana;
+}
+
+.menu li {
+	display:inline-block;
+}
+
+.menu a {
+	text-decoration:none;
+	display:block;
+  	color:lime;
+	font-size: 26px;
+	padding:22px;
+}
+
+.menu a:hover {
+	color:red;
+}
+
+.menu a.active {
+	color:orange;
+}
+
+.hat {
+	display:flex;
+	align-items:center;
+	gap:150px;
+}
+.on {
+	 background: rgb(195,153,34);
+background: linear-gradient(0deg, rgba(195,153,34,1) 10%, rgba(36,195,46,1) 20%, rgba(195,210,37,1) 30%, rgba(46,38,207,1) 41%, rgba(174,68,90,1) 53%, rgba(187,82,185,1) 61%, rgba(206,112,122,1) 72%, rgba(0,255,235,1) 81%, rgba(0,255,6,1) 91%, rgba(253,187,45,1) 100%); 
+min-height:100vh;
+}
+.h {
+	 background: rgb(255,166,0);
+background: linear-gradient(0deg, rgba(255,166,0,1) 5%, rgba(226,0,255,1) 15%, rgba(172,75,209,0.8716620437237395) 26%, rgba(229,23,230,0.7932306711747199) 39%, rgba(226,26,206,0.7204015395220589) 45%, rgba(229,46,186,0.7484127440038515) 52%, rgba(227,101,195,0.8688609232755602) 68%, rgba(221,82,230,0.8576564414828431) 77%, rgba(162,0,255,0.9809057412027311) 86%, rgba(253,187,45,1) 97%); 
+min-height:100vh;
+.f {
+	width:1000px;
+}
+.uhf {heght:500px;
+}
+.a {height:400px;
+    width:500px;
+}
+.qwe {
+	width:1100px;
+}
